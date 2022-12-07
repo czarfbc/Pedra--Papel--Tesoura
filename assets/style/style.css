@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 *{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif;}
 
-.flex{display: flex; text-align: center;}
+.flex{display: flex; text-align: center; justify-content: center;}
 .block{display: block; text-align: center;}
 span{font-weight: 600;}
 .playerOptions,.enemyOptions{width: 50%;}
